@@ -1,0 +1,18 @@
+prod_id,prod_name,prod_price_kg,season,month
+10001,potato,20.0,winter    ,jan            
+10002,tomato ,50.0,winter    ,jan            
+10003,peas,70.0,winter    ,jan            
+10004,pumkin,25.0,winter    ,jan            
+10005,cucumber,20.0,winter    ,jan            
+10006,pointed grourd ,130.0,winter    ,jan            
+10007,Raddish,10.0,winter    ,jan            
+10008,Bitter gourd,35.0,winter    ,jan            
+10009,onion,35.0,winter    ,jan            
+10010,garlic,150.0,winter    ,jan            
+10011,cabage,45.0,winter    ,jan            
+10012,califlower,20.0,winter    ,jan            
+10013,chilly,80.0,winter    ,jan            
+10014,okra,30.0,winter    ,jan            
+10015,brinjal,70.0,winter    ,jan            
+10016,ginger,20.0,winter    ,jan            
+10017,radish,30.0,summer    ,apr            
